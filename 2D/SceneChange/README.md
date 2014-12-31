@@ -11,10 +11,3 @@ If you want to add a new object button, remember to add a Box Collider 2D on you
 eg:
 
 ![Box Collider 2D](docs/image_box_collider_2d.png)
-
-## Acknowledgements
-
-
-
-
-
