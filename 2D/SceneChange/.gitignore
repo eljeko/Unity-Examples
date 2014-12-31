@@ -2,6 +2,5 @@
 *.sln
 *.userprefs
 Temp
-*.meta
 .DS_Store
 Library
