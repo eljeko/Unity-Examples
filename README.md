@@ -4,4 +4,4 @@ This is a collection of working examples for Unity.
 
 ## 2D examples
 
-* [Scene Change](2D/SceneChange/README.md)
+* [Scene Change](2D/SceneChange/)
