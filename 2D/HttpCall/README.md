@@ -1,3 +1,3 @@
 # Game State
 
-This example shows how to maintain the game state between scenes.
+This example shows how get the content from a remote file with an Http GET.
