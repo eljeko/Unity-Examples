@@ -4,5 +4,6 @@ This is a collection of working examples for Unity.
 
 ## 2D examples
 
-* [Scene Change](2D/SceneChange/)
-* [Game State](2D/GameState/)
+* [Scene change](2D/SceneChange/)
+* [Game state](2D/GameState/)
+* [Http call](2D/HttpCall/)
