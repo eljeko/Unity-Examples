@@ -9,9 +9,9 @@ public class IncreaseCounter : MonoBehaviour
 				DontDestroyOnLoad (GameState.Instance);
 				GameState gamestate = GameState.Instance; 
 				gamestate.Increase ();
-				// we tagged out Label GameObject as "CounterLabel" to easly retrive it
+				// we tagged out Label GameObject as "CounterLabel" to easily retrive it
 				foreach (GameObject counterLabel  in GameObject.FindGameObjectsWithTag("CounterLabel")) {
-						counterLabel.GetComponent<TextMesh>().text = "Counter: " + gamestate.Counter ();
+						counterLabel.GetComponent<TextMesh> ().text = "Counter: " + gamestate.Counter ();
 				}
 		}
     
